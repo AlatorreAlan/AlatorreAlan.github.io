@@ -1,37 +1,12 @@
-## Hello, this is Alan Alatorre's Portfolio Website
+## Hi! Im Alan Alatorre, welcome to my website
 
-You can use the [editor on GitHub](https://github.com/AlatorreAlan/AlatorreAlan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### This is a place where you can find the projects I have worked on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a college student currently studying Computer Science and have a vested interest with CyberSecurity
 
-### Markdown
+### Instagram
+[alan.al](instagram.com/alan.al)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Teddy :)
+![75697612-997C-40EF-89E8-1F303F962A4E](https://user-images.githubusercontent.com/103144353/162065760-caeb7c57-9c6b-4b23-add5-cd5e3d6b4e8e.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlatorreAlan/AlatorreAlan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
